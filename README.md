@@ -2,7 +2,7 @@
 
 > AIoT & Cybersecurity at Liberty College • A Modular Sandbox for Systems Design & Empirical Research
 
-**Liberty Intelligence Labs** is a modular research and development unit at [Liberty College](https://libertycollege.edu.np/) with a focus on AIoT and cybersecurity. We operate as a project-based collective, meaning students enrolled in the BCSIT program join for the life cycle of a project and leave with a legacy of documented impact. Here, we embrace scientific thinking, recognizing that failure in the sandbox of systems design is not a failure but essential data. As long as our experiments remain within the bounds of our safety and ethics framework, we encourage the bold, the experimental, and the unconventional. We don't just study the future of secure and interconnected systems; we build it, one iteration at a time.
+**Liberty Intelligence Labs** is a modular research and development unit at [Liberty College](https://libertycollege.edu.np/) with a focus on AIoT and cybersecurity. We operate as a project-based collective, meaning students enrolled in the BCSIT program join for the life cycle of a project and leave with a legacy of documented impact. Here, we embrace scientific thinking, recognizing that failure in the sandbox of systems design is not a setback but essential data. As long as our experiments remain within the bounds of our safety and ethics framework, we encourage the bold, the experimental, and the unconventional. We don't just study the future of secure and interconnected systems; we build it, one iteration at a time.
 
 ## 🛠️ Infrastructure & Access 
 * **[Onboarding Guide]()** - Setup instructions and workflow integration for new members.
