@@ -39,7 +39,7 @@ Participation is tied to your approved proposal.
 
 * **Exit & Reentry:** Upon delivering your project's documentation and assets, your tenure concludes. To continue with the lab, a new proposal and safety review are required.
 
-* **Ethical Breaches:** Any use of lab resources for malicious hacking or illegal activities result in immediate, permanent expulsion and a report to the BCSIT department.
+* **Ethical Breaches:** Any use of lab resources for malicious hacking or illegal activities result in immediate, permanent expulsion and a report to the CSIT Department.
 
 ---
 We don't just study the future of secure and interconnected systems; we build it, one iteration at a time. By entering this lab, you agree to protect the sandbox, support the collective, and leave a legacy worth following.
