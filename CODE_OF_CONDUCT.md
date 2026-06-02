@@ -26,7 +26,7 @@ AI and cybersecurity are powerful tools. We use them to protect and innovate, no
 * **Responsible Disclosure:** If you discover a vulnerability in a system during your research, you must follow the lab's disclosure protocol—notifying the affected party before going public.
 
 ## The Collective Mindset
-We are a project-based collectives, not a collection of lone wolves.
+We are a project-based collective, not a collection of lone wolves.
 
 * **Cross-Pollination:** A cybersecurity student should be willing to help an AIoT student secure their firmware, and vice versa.
 
