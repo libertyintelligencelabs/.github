@@ -12,7 +12,7 @@
 ## 🔌 Lab Resources
 * **[SOP Library]()** - Standardized protocols for hardware handling and reproducible experiments.
 * **[Equipment Ledger]()** - Real-time inventory of microcontrollers, sensors, and SDR hardware.
-* **[Research Framework](../templates)** - Preformatted templates for project proposals, peer reviews, and data logging. 
+* **[Execution Framework](../templates)** - Preformatted templates for project proposals, peer reviews, and data logging. 
 * **[Brand Assets](../assets)** - Official logos, typography, and templates for public outreach and presentations.
 
 ---
