@@ -1,6 +1,6 @@
 name: "Liberty Intelligence Labs: Safety & Ethics Waiver"
 description: Mandatory guidelines for responsible disclosure and hardware testing.
-title: "[Waiver]: "
+title: "[Waiver]: {username} – {project-title}"
 labels: ["compliance"]
 body:
   - type: markdown
@@ -58,13 +58,6 @@ body:
       placeholder: "e.g., John Doe"
     validations:
       required: true
-
-  - type: input
-    id: title
-    attributes:
-      label: "GitHub Username"
-      value: "[Waiver]: "
-      placeholder: "e.g., [Waiver]: johndoe"
 
   - type: input
     id: project-title
