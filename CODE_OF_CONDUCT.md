@@ -1,6 +1,6 @@
 # Liberty Intelligence Labs: Code of Conduct
 
-**Liberty Intelligence Labs** is a project-based collective where intelligence meets security through disciplined experimentation. As long as our experiments remain within the bounds of our [Safety and Ethics Framework](), we encourage the bold, the experimental, and the unconventional. This Code of Conduct ensures that our efforts remain ethical, sustainable, and safe for our members and the college community.
+**Liberty Intelligence Labs** is a project-based collective where intelligence meets security through disciplined experimentation. As long as our experiments remain within the bounds of our [Safety and Ethics Framework](https://github.com/libertyintelligencelabs/.github/blob/main/SAFETY_AND_ETHICS.md), we encourage the bold, the experimental, and the unconventional. This Code of Conduct ensures that our efforts remain ethical, sustainable, and safe for our members and the college community.
 
 ## Radical Documentation
 In this lab, a failed experiment is only a failure if it isn't documented.
@@ -21,7 +21,7 @@ We are a project-based collective, not a collection of lone wolves.
 ## Project Life Cycle & Tenure
 Participation is tied to your approved proposal.
 
-* **Active Momentum:** Tenure is maintained through progress. If a project stalls significantly without communication, the lab reserves the right to reallocate resources as per the [Project Life Cycle SOP]().
+* **Active Momentum:** Tenure is maintained through progress. If a project stalls significantly without communication, the lab reserves the right to reallocate resources as per the [Project Life Cycle SOP](https://github.com/libertyintelligencelabs/sop-library/blob/main/procedures/project-life-cycle.md).
 
 * **Exit & Reentry:** Upon delivering your project's documentation and assets, your tenure concludes. To continue with the lab, a new proposal and safety review are required.
 
