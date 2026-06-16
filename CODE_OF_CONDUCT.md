@@ -1,6 +1,6 @@
 # Liberty Intelligence Labs: Code of Conduct
 
-**Liberty Intelligence Labs** is a project-based collective where intelligence meets security through disciplined experimentation. As long as our experiments remain within the bounds of our [Safety and Ethics Framework](https://github.com/libertyintelligencelabs/.github/blob/main/SAFETY_AND_ETHICS.md), we encourage the bold, the experimental, and the unconventional. This Code of Conduct ensures that our efforts remain ethical, sustainable, and safe for our members and the college community.
+**Liberty Intelligence Labs** is a project-based collective where intelligence meets security through disciplined experimentation. As long as our experiments remain within the bounds of our [Safety & Ethics Framework](https://github.com/libertyintelligencelabs/.github/blob/main/SAFETY_AND_ETHICS.md), we encourage the bold, the experimental, and the unconventional. This Code of Conduct ensures that our efforts remain ethical, sustainable, and safe for our members and the college community.
 
 ## Radical Documentation
 In this lab, a failed experiment is only a failure if it isn't documented.
@@ -30,4 +30,4 @@ Participation is tied to your approved proposal.
 ---
 *Where intelligence meets security through disciplined experimentation.*
 
-**Liberty Intelligence Labs: Code of Conduct | v2.0.0**
+**Liberty Intelligence Labs: Code of Conduct | v2.0.1**
