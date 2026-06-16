@@ -73,3 +73,6 @@ Research excellence relies on precision and consistency. All documentation and f
 
 ---
 *Where intelligence meets security through disciplined experimentation.*
+
+**Liberty Intelligence Labs: House Style | v1.0.0**
+
