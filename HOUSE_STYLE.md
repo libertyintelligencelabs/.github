@@ -10,7 +10,7 @@ We maintain a consistent visual identity to ensure our work is immediately recog
 | Black | `#2B2826` | Body text               |
 | White | `#FFFFFF` | Background and contrast |
 
-*The lab palette is designed to comply with the official brand colors of [Liberty College](https://libertycollege.edu.np/). When designing figures, slides, or infographics, use these three colors as the foundation of your work to ensure all lab outputs share a unified esthetic aligned with our institutional identity.*
+*The lab palette is designed to comply with the official brand colors of [Liberty College](https://libertycollege.edu.np/). When designing figures, slides, or infographics, use these three colors as the foundation of your work to ensure all lab outputs share a unified aesthetic aligned with our institutional identity.*
 
 | Category        | Font                                                                                                    | Usage                                 |
 |-----------------|---------------------------------------------------------------------------------------------------------|---------------------------------------|
