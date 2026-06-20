@@ -12,7 +12,7 @@ In this lab, a failed experiment is only a failure if it isn't documented.
 ## The Collective Mindset
 We are a project-based collective, not a collection of lone wolves.
 
-* **Cross-Pollination:** A cybersecurity student should be willing to help an AIoT student secure their firmware, and vice versa.
+* **Cross-Pollination:** A cybersecurity developer should be willing to help an AIoT developer secure their firmware, and vice versa.
 
 * **Resource Stewardship:** Lab assets—be they physical hardware, cloud compute credits, or shared API keys—are shared resources. Document your usage, respect rate limits, and never borrow components or credentials from another project's active setup.
 
