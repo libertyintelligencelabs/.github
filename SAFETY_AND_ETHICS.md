@@ -4,7 +4,7 @@
 ## Core Philosophy
 We play in a sandbox so the college doesn't have to.
   
-* **No Harm:** Never test exploits or intrusive AI models on college infrastructure, faculty devices, or fellow students without explicit written authorization.
+* **No Harm:** Never test exploits or intrusive AI models on college infrastructure, faculty devices, or fellow lab members without explicit written authorization.
 
 ## Hardware & Physical Safety
 * **Supervision & Power:** No high-voltage modifications or custom power-supply manipulation may be conducted without the explicit, written clearance of the Director of Technology.
