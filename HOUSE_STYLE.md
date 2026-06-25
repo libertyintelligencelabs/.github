@@ -17,7 +17,7 @@ We maintain a consistent visual identity to ensure our work is immediately recog
 | Lab Branding    | [`Montserrat`](https://fonts.google.com/specimen/Montserrat)                                            | Logos, headlines, and UI labels       |
 | Grant Proposals | [`Gentium Plus`](https://fonts.google.com/specimen/Gentium+Plus)                                        | External funding applications         |
 | Presentations   | [`Inter`](https://fonts.google.com/specimen/Inter)/[`Roboto`](https://fonts.google.com/specimen/Roboto) | Slide decks, charts, and infographics |
-| Documentation   | Platform-Native                                                                                         | Notion, GitHub, ACM/IEEE standards    |
+| Documentation   | Platform-Native                                                                                         | GitHub and ACM/IEEE standards         |
 
 ***Note:** All plots and diagrams must use a white (`#FFFFFF`) background and utilize our palette for a cohesive look.*
 
@@ -74,5 +74,5 @@ Research excellence relies on precision and consistency. All documentation and f
 ---
 *Where intelligence meets security through disciplined experimentation.*
 
-**Liberty Intelligence Labs: House Style | v1.0.1**
+**Liberty Intelligence Labs: House Style | v1.0.2**
 
