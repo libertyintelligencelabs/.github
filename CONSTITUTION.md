@@ -50,7 +50,7 @@ The Director of Research & Grants acts as the primary liaison between the lab an
 
 * **Community-Facing Activities:** The lab executes community-facing activities only when they are explicitly mandated and fully funded by external grants.
 
-* **Fiscal & Resource Neutrality:** Mandated activities must be resource-positive or resource-neutral. Grant funding must cover all consumables, specialized hardware, and administrative overhead. Lab-owned research equipment may not be risked in community-facing activities unless specified in the [Resource SOP]().
+* **Fiscal & Resource Neutrality:** Mandated activities must be resource-positive or resource-neutral. Grant funding must cover all consumables, specialized hardware, and administrative overhead. Lab-owned research equipment may not be risked in community-facing activities unless specified in the [Resource Allocation SOP](https://github.com/libertyintelligencelabs/sop-library/blob/main/procedures/resource-allocation.md).
 
 * **Mission Alignment:** Where possible, community-facing activities shall be utilized as Beta-Testing environments for internal lab projects, providing researchers with real-world data and user feedback.
 
@@ -59,7 +59,7 @@ The Director of Research & Grants acts as the primary liaison between the lab an
 ## Compliance & Tenure
 Participation is project-based and contingent upon adherence to the lab's standards.
 
-* **Frameworks:** All members must sign the [Safety & Ethics Waiver]() and adhere to the [Code of Conduct]() and [Project Life Cycle SOP]().
+* **Frameworks:** All members must adhere to the [Code of Conduct](https://github.com/libertyintelligencelabs/.github/blob/main/CODE_OF_CONDUCT.md), the [Safety & Ethics Framework](https://github.com/libertyintelligencelabs/.github/blob/main/SAFETY_AND_ETHICS.md), and the [Project Life Cycle SOP](https://github.com/libertyintelligencelabs/sop-library/blob/main/procedures/project-life-cycle.md).
 
 * **Enforcement:** The Directorate holds the authority to terminate tenure for significant stalls in progress or ethical breaches.
 
@@ -83,9 +83,9 @@ To prevent the persistence of an inactive organization, Liberty Intelligence Lab
 
 * **Safety Breach:** The CSIT Department revokes backing due to a catastrophic breach of the Safety & Ethics Waiver.
 
-Upon sunset, all grant-funded assets return to the funding body, all lab-owned assets are surrendered to the CSIT Department, and the digital repository is Archived.
+Upon sunset, all grant-funded assets return to the funding body, all lab-owned assets are surrendered to the CSIT Department, and the digital repository is archived.
 
 ---
 *Where intelligence meets security through disciplined experimentation.*
 
-**Liberty Intelligence Labs: Constitution | v1.0.0**
+**Liberty Intelligence Labs: Constitution | v1.0.1**
