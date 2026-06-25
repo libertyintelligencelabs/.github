@@ -1,6 +1,6 @@
 # Liberty Intelligence Labs: Constitution
 
-**Liberty Intelligence Labs** is a student-run modular research and development unit at [Liberty College](https://libertycollege.edu.np/) institutionally backed by the CSIT Department. We operate as a project-based collective with an exclusive focus on AIoT and cybersecurity to execute the vision defined in our README. This Constitution serves as the primary governing framework and the highest authority within the lab. All SOPs, House Styles, and member activities must align with the structures defined herein.
+**Liberty Intelligence Labs** is a student-run modular research and development unit at [Liberty College](https://libertycollege.edu.np/) institutionally backed by the CSIT Department. We operate as a project-based collective with an exclusive focus on AIoT and cybersecurity to execute the vision defined in our [Manifesto](https://github.com/libertyintelligencelabs/.github/blob/main/profile/README.md). This Constitution serves as the primary governing framework and the highest authority within the lab. All SOPs, House Styles, and member activities must align with the structures defined herein.
 
 ## Governance
 The lab is directed by a collective of five roles, called the Directorate. Governance is based on specialized oversight and collective accountability.
@@ -81,11 +81,11 @@ To prevent the persistence of an inactive organization, Liberty Intelligence Lab
 
 * **Directorate Collapse:** The Directorate falls below three active members and fails to nominate successors within one semester.
 
-* **Safety Breach:** The CSIT Department revokes backing due to a catastrophic breach of the Safety & Ethics Waiver.
+* **Safety Breach:** The CSIT Department revokes backing due to a catastrophic breach of the Safety & Ethics Framework.
 
 Upon sunset, all grant-funded assets return to the funding body, all lab-owned assets are surrendered to the CSIT Department, and the digital repository is archived.
 
 ---
 *Where intelligence meets security through disciplined experimentation.*
 
-**Liberty Intelligence Labs: Constitution | v1.0.1**
+**Liberty Intelligence Labs: Constitution | v1.0.2**
